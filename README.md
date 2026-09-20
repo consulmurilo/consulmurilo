@@ -10,5 +10,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/consulmurilo/)
 
 <a href="https://github.com/consulmurilo">
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=consulmurilo&layout=donut&theme=graywhite" />
+  <img height="170" align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=consulmurilo&layout=donut&theme=graywhite" />
 </a>
